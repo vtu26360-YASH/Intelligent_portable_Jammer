@@ -1,0 +1,28 @@
+WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/ompradeep/Documents/IOT_minor/project/<frozen importlib._bootstrap_external>:759=>/home/ompradeep/Documents/IOT_minor/project/<frozen importlib._bootstrap>:491]
+WARNING: KICAD7_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/ompradeep/Documents/IOT_minor/project/<frozen importlib._bootstrap_external>:759=>/home/ompradeep/Documents/IOT_minor/project/<frozen importlib._bootstrap>:491]
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Missing tag on LM7805_TO220 instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:13.
+WARNING: Random tag D1FWLt3Alz generated for LM7805_TO220.
+WARNING: Missing tag on AMS1117-3.3 instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:25.
+WARNING: Random tag YaZTWp22o0 generated for AMS1117-3.3.
+WARNING: Missing tag on Conn_01x40_Pin instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:33.
+WARNING: Random tag S8j1VwHBEw generated for Conn_01x40_Pin.
+WARNING: Missing tag on Conn_01x20_Pin instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:37.
+WARNING: Random tag lq2mOpRdfK generated for Conn_01x20_Pin.
+WARNING: Missing tag on C instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:48.
+WARNING: Random tag Lz4SHBQzPl generated for C.
+WARNING: Missing tag on C instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:48.
+WARNING: Random tag HBngq_AvPC generated for C.
+WARNING: Missing tag on C instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:48.
+WARNING: Random tag OFCq1Wc902 generated for C.
+WARNING: Missing tag on C instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:48.
+WARNING: Random tag 8GkU73aZML generated for C.
+WARNING: Missing tag on C instantiated at /home/ompradeep/Documents/IOT_minor/project/jammer_circuit.py:48.
+WARNING: Random tag 9KfBzd70tV generated for C.
+WARNING: Missing tag on  instantiated at /home/ompradeep/Documents/IOT_minor/project/<frozen importlib._bootstrap>:491.
+INFO: 23 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+
